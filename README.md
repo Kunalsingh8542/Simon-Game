@@ -47,7 +47,7 @@ JavaScript (ES6) – Core logic, event handling, patterns, sound playback
 
 Clone the repository:
 
-git clone <your-repo-link>
+git clone https://github.com/Kunalsingh8542/Simon-Game
 
 
 Open index.html in your browser.
